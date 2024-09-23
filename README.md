@@ -1,12 +1,12 @@
 # DeepSwaap-
 1. Make sure to download and install:
    
-i. CMake (gui)
+    i. CMake (gui)
 
-ii. Visual Studio build tools
+    ii. Visual Studio build tools
 
-iii. dlib
+    iii. dlib
 
-iv. shape_predictor_68_face_land marks.dat (Download this and then extract file in the same directory where you're coding)
+    iv. shape_predictor_68_face_land marks.dat (Download this and then extract file in the same directory where you're coding)
 
 3. Train model using your dataset.
