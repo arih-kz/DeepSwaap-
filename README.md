@@ -9,4 +9,4 @@
 
     iv.shape_predictor_68_face_land     marks.dat (Download this and then extract file in the same directory where you're coding)
 
-3. Train model using your dataset.
+3. Use your dataset.
